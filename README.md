@@ -2,6 +2,8 @@
 
 http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/
 
+Printable Google Doc: https://docs.google.com/document/d/1zQSLNscW7MsmRHUC3n43L7yOupGkMVs96huEAv24XKs/edit?usp=sharing
+
 ## create steps for the tutorial.
 
 - give the views as is to the class don't make them type the wole views again
